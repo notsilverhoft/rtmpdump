@@ -1,6 +1,6 @@
 VERSION=v2.4
 
-prefix=/usr/local
+prefix=RTMP_PREFIX
 
 CC=$(CROSS_COMPILE)cc
 LD=$(CROSS_COMPILE)ld
