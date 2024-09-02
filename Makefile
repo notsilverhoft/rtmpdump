@@ -1,6 +1,6 @@
 VERSION=v2.4
 
-prefix=$(RTMP_PREFIX)
+prefix=$(/)
 
 CC=$(CROSS_COMPILE)cc
 LD=$(CROSS_COMPILE)ld
